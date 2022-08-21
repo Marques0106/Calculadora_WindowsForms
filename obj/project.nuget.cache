@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPXgW2K3nLshxzY29vGZtWQOxoc82bQyG+wLoVF//a6hVSWvRE6pGLZJkDNEU7sm/Lo0lxp8gL2IxFvbkA5UoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marques\\source\\repos\\Calculadora\\Calculadora\\Calculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marques\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
